@@ -458,7 +458,7 @@
                     <plugin>
                         <groupId>org.owasp</groupId>
                         <artifactId>dependency-check-maven</artifactId>
-                        <version>1.2.9</version>
+                        <version>3.2.0</version>
                         <configuration>
                             <failBuildOnCVSS>7</failBuildOnCVSS>
                             <format>ALL</format>
@@ -486,7 +486,7 @@
                     <plugin>
                         <groupId>org.owasp</groupId>
                         <artifactId>dependency-check-maven</artifactId>
-                        <version>1.2.9</version>
+                        <version>3.2.0</version>
                         <reportSets>
                             <reportSet>
                                 <reports>
