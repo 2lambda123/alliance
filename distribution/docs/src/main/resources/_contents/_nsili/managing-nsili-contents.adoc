@@ -323,11 +323,12 @@ The *${alliance-nsili}* app is installed by default with standard installation.
 |Default Value
 |Required
 
-|Max Number Returned Results
+|Max Number of Returned Results
 |maxNumResults
 |Integer
 |Maximum number of results that will be returned
 |500
+|yes
 |yes
 
 |Standing Query Update Rate
