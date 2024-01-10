@@ -15,7 +15,7 @@
     "node": ">=0.10.5"
   },
   "dependencies": {
-    "pom-fix": "file:target/npm/pom-fix"
+    "pom-fix": "^1.0.0"
   },
   "private": true
 }
