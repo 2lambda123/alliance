@@ -42,6 +42,6 @@
     "node-fs": "0.1.7",
     "node-options": "0.0.3",
     "path": "0.4.9",
-    "request": "2.49.0"
+    "request": "2.88.2"
   }
 }
