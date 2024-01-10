@@ -73,8 +73,27 @@ The *${alliance-nsili}* app is installed by default with standard installation.
 |Description
 |Default Value
 |Required
+|---
+[cols="1,1m,1,2,1,1" options="header"]
+|===
+|Title
+|Property
+|Type
+|Description
+|Default Value
+|Required
 
 |NSILI Source ID
+|id
+|String
+|The ID of the NSILI Source
+|NSILI Federated Source
+|yes
+|id
+|The ID of the NSILI Source
+|String
+|NSILI Federated Source
+|yes
 |id
 |The ID of the NSILI Source
 |String
@@ -82,6 +101,16 @@ The *${alliance-nsili}* app is installed by default with standard installation.
 |yes
 
 |Ior File URL
+|iorUrl
+|String
+|The URL of the IOR File to use for the NSILI CORBA Service.  For local files, use 'file://'
+|''
+|yes
+|iorUrl
+|String
+|The URL of the IOR File to use for the NSILI CORBA Service.  For local files, use 'file://'
+|''
+|yes
 |iorUrl
 |String
 |The URL of the IOR File to use for the NSILI CORBA Service.  For local files, use 'file://'
