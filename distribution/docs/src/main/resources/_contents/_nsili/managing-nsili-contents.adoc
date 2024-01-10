@@ -191,7 +191,7 @@ The *${alliance-nsili}* app is installed by default with standard installation.
 |NSILI Connected Source
 |yes
 
-|Ior File URL
+|URL of the IOR File for the NSILI CORBA Service (use 'file://' for local files)
 |iorUrl
 |String
 |The URL of the IOR File to use for the NSILI CORBA Service.  For local files, use 'file://'
