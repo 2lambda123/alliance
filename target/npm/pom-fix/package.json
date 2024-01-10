@@ -1,0 +1,14 @@
+{
+  "name": "pom-fix",
+  "version": "1.0.0",
+  "description": "Finds and fixes any dependency issues in Maven POMs",
+  "author": "Codice",
+  "license": "LGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codice/alliance.git"
+  },
+  "dependencies": {
+    "pom-fix": "file:target/npm/pom-fix"
+  }
+}
