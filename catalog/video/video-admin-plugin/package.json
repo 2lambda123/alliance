@@ -38,7 +38,7 @@
     "underscore": "1.12.1"
   },
   "dependencies": {
-    "lodash": "2.4.1",
+    "lodash": "4.17.21",
     "node-fs": "0.1.7",
     "node-options": "0.0.3",
     "path": "0.4.9",
